@@ -28,7 +28,7 @@ A full-stack blog application built with MongoDB, Express.js, React, and Node.js
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/PLP-MERN-Stack-Development/mern-stack-integration-irenenderitu
    cd mern-blog
 Backend Setup
 
